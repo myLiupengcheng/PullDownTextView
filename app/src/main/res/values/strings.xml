@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PullDownTextView</string>
+    <string name="dummy_text1">短文本</string>
+    <string name="long_text1">从上文也能看出来,
+        \n我们只能获取一个name严格来说是screen_name,另外一个是userId,而我还需要头像等信息.于是,还得接下去搞.
+        其实过程异常痛苦,因为推特并没有给出详细的例子,自己也没有弄清楚oauth,找了老半天也没有详细的文档,不过最后还是被我弄出来了.
+        \n这里直接给代码了,无非就是拿token去获取数据:,自己也没有弄清楚oauth,找了老半天也没有详细的文档,
+    </string>
+</resources>
