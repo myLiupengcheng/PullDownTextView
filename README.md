@@ -62,9 +62,7 @@
     }
 ```
 ### 2.3、常见样式相关
-常见样式有下划线，删除线，textStyle（粗体、斜体）。
-
-![这里写图片描述](http://img.blog.csdn.net/20170923184311417?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTFBDX0pBVkE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+常见样式有下划线，删除线，textStyle（粗体、斜体）
 
 ```java
 	/***
@@ -95,9 +93,6 @@
 ```
 ### 2.4、跳转相关
 常见的跳转相关有，点击事件，超链接。其实超链接的实现就是点击事件，只不过点击以后由当前手机的默认浏览器去打开。
-
-![这里写图片描述](http://img.blog.csdn.net/20170923190341759?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTFBDX0pBVkE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
 ```java
 /**
      * ClickableSpan : 可点击的文字
